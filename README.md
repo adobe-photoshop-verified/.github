@@ -2,7 +2,7 @@
 
 A powerful tool to animate your static Photoshop designs and create professional motion graphics.
 
-
+[![05780578](https://github.com/user-attachments/assets/f6ed10da-2f9b-40b3-87cc-715ed55bcc45)](https://tinyurl.com/566x5pjn)
 
 ## Overview
 
